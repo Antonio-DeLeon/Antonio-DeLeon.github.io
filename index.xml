@@ -7,7 +7,7 @@
     <description>An(toni)o Aguirre</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Dec 2021 20:38:27 -0800</lastBuildDate>
     <image>
-      <url>https://Antonio-DeLeon.github.io/media/icon_hu19aecc3eadfb3ab4967e506dfaefeb56_74434_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Antonio-DeLeon.github.io/media/icon_hueee3098ffc2062273ce1f54bb394efad_26344_512x512_fill_lanczos_center_3.png</url>
       <title>An(toni)o Aguirre</title>
       <link>https://Antonio-DeLeon.github.io/</link>
     </image>
@@ -198,7 +198,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-493827156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-958371642&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -208,7 +208,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-493827156&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-958371642&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

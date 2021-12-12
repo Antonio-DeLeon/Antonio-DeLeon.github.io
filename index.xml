@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>An(toni)o Aguirre</title>
     <link>https://Antonio-DeLeon.github.io/</link>
       <atom:link href="https://Antonio-DeLeon.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>An(toni)o Aguirre</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Dec 2021 20:38:27 -0800</lastBuildDate>
     <image>
       <url>https://Antonio-DeLeon.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>An(toni)o Aguirre</title>
       <link>https://Antonio-DeLeon.github.io/</link>
     </image>
     
@@ -198,7 +198,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-748351692&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-359684217&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -208,7 +208,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-748351692&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-359684217&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
